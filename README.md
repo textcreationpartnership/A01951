@@ -35,9 +35,23 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-Playes confuted in fiue actions prouing that they are not to be suffred in a Christian common weale,
+
+1. To the Right Honorable Sir Frances Walsingham Knight, one of the principall Secretaries to her excellent Maiestie, of her highnesse most honorable Priuy Counsell, & Chauncellor of the order, Stephen Gosson wisheth prosperitie in this life, and life euerlasting in Christ our Sauiour.
+
+1. To the Rightworshipful Gentlemen and studentes, of both Vniuersities, and the Innes of Court.
+
 #####Body#####
-Playes confuted in fiue actions prouing that they are not to be suffred in a Christian common weale,
+
+1. The first Action.
+
+1. The 2 Action.
+
+1. The 3 Action.
+
+1. The Fourth Action.
+
+1. The 5 Action.
+
 **Types of content**
 
   * There are 1 **verse** lines!
